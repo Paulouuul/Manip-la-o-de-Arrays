@@ -1,7 +1,6 @@
 /**
  * Esta classe é uma classe de Utilitários para manipular vetores.
  * Ela contém métodos para trocar valores de um vetor, imprimir valores de um vetor, multiplicar os valores de um vetor, verificar se o vertor está ordenado, procurar o maior valor do vetor e procurar o menor valor do vetor.
- * @author Cauã da G. C. S. Louzada, Paulo Ricardo Tebet Lyrio e Rafael Canejo.
  * @version 1
  */
 public class Utilitarios{
