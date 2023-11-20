@@ -1,4 +1,4 @@
-// Grupo: Cauã da G. C. S. Louzada, Paulo Ricardo Tebet Lyrio e Rafael Canejo.
+
 
 import java.util.Scanner;
 class Main {
