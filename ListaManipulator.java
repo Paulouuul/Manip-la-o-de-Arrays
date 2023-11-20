@@ -1,7 +1,6 @@
 /**
  * Esta classe é uma classe de manipular vetores.
  * Ela contém um métodos para ordenar um vetor usando o algoritmo Bubble Sort, ordenar um vetor usando o algoritmo Selection Sort, ordenar um vetor usando o algoritmo Insertion Sort e realizar uma busca binária em um vetor ordenado.
- * @author Cauã da G. C. S. Louzada, Paulo Ricardo Tebet Lyrio e Rafael Canejo.
  * @version 1
  */
 public class ListaManipulator{
